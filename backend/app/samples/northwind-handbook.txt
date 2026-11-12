@@ -1,0 +1,27 @@
+Northwind Studio — Client Services Handbook (Sample Document)
+
+This is a fictional handbook bundled with DocuMind AI so you can try the app without uploading your own files.
+
+1. About Northwind Studio
+Northwind Studio is a small design agency that builds websites and brand identities for local businesses. The studio is open Monday to Friday, 9:00 to 18:00. Clients can reach the support team at support@northwind.example.
+
+2. Project process
+Every project starts with a discovery call within five business days of signing the contract. A written proposal follows within ten business days of the discovery call. Each project includes two rounds of revisions; additional rounds are billed at the standard hourly rate of 65 EUR.
+
+3. Payment terms
+Clients pay a 40% deposit before work begins. The remaining 60% is due within 14 days of final delivery. Late payments incur a fee of 2% per month.
+
+4. Cancellation policy
+Clients may cancel a project at any time by email. If cancellation happens before the discovery call, the deposit is refunded in full. After the discovery call, the deposit is non-refundable, and completed work is billed at the hourly rate.
+
+5. Key requirements for clients
+Clients must provide brand assets (logo files, fonts and colour codes) before design starts. Website content, including text and photos, must be delivered at least two weeks before the planned launch date. Clients must name one decision-maker who approves each project stage.
+
+6. Important dates and deadlines
+Proposals are valid for 30 days from the date they are sent. Feedback on each design round is due within 7 days, otherwise the project schedule moves back. The studio is closed from 24 December to 2 January each year.
+
+7. Warranty and support
+Websites include a 90-day warranty that covers bugs in the delivered code. After the warranty period, support is available through a monthly maintenance plan starting at 120 EUR per month.
+
+8. Data retention
+Project files are kept for two years after the final delivery and then deleted. Clients can request an export of their files at any time during that period.

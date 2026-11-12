@@ -1,0 +1,19 @@
+services:
+  backend:
+    build: ./backend
+    env_file:
+      # Optional: without it (or without OPENAI_API_KEY) the app runs in offline demo mode.
+      - path: ./backend/.env
+        required: false
+    volumes:
+      - documind_storage:/app/storage
+    ports:
+      - "8000:8000"
+  frontend:
+    build: ./frontend
+    depends_on:
+      - backend
+    ports:
+      - "5173:80"
+volumes:
+  documind_storage:
